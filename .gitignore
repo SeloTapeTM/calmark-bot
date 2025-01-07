@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore directories
+googlecreds/
+calmark/
+venv/
+
+# Ignore specific files
+dockerCmds
+OLD_func.py
+org_func
+sendmsg.py
+test.py
+token.txt
+Vars.py
